@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanongsak Langei</h1>
 <h3 align="center">Passionate Flutter Developer | Enthusiastic About Mobile App Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunynx&label=Profile%20views&color=0e75b6&style=flat" alt="sunynx" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sunynx&label=Profile%20views&color=0e75b6&style=flat" alt="sunynx" /> 
+</p>
 
 I'm a dedicated developer with a passion for building mobile applications using Flutter and Firebase. I enjoy solving problems, creating efficient solutions, and learning new technologies.
 
@@ -15,7 +17,9 @@ I'm a dedicated developer with a passion for building mobile applications using 
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/sun.18559/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/sun.18559/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
 ---
@@ -23,16 +27,16 @@ I'm a dedicated developer with a passion for building mobile applications using 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/> 
   </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/> 
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/> 
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/> 
   </a> 
 </p>
 
@@ -45,7 +49,9 @@ I'm a dedicated developer with a passion for building mobile applications using 
 ---
 
 <h3 align="left">📊 GitHub Trophies:</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sunynx" alt="GitHub Trophies" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=sunynx" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -54,4 +60,3 @@ I'm a dedicated developer with a passion for building mobile applications using 
   <li><a href="#">Student Activity App</a> - A Flutter-based app for managing student activities at Phuket Rajabhat University.</li>
   <li><a href="#">Participation History Feature</a> - Track and display student attendance at various events.</li>
 </ul>
-
